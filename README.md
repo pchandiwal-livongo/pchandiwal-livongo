@@ -10,5 +10,6 @@
 - 📫 How to reach me **parag@chandiwal.com**
 
 
-![Parag's github stats](https://github-readme-stats-c3d162qfv.vercel.app/api?username=pchandiwal-livongo&&show_icons=true)
+![Parag's github stats](https://github-readme-stats.pchandiwal-livongo.vercel.app/api?username=pchandiwal&count_private=true)
+
 
