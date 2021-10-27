@@ -7,6 +7,3 @@
 - 📝 I regulary write articles on [justpaintings.me](justpaintings.me)
 
 - 📫 How to reach me **parag@chandiwal.com**
-
-
-![Parag's github stats](https://github-readme-pchandiwal.vercel.app/api?username=pchandiwal-livongo&count_private=true)
